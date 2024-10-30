@@ -1,6 +1,10 @@
 # Sum of Two Numbers
 # Write a function add(a, b) that takes two numbers as input and returns their sum.
 # Example: add(3, 5) should return 8
+def function12(a,b):
+    print(a+b)
+
+function12(2,3)
 
 # Odd or Even Checker
 # Write a function is_even(n) that checks if a given number n is even. If it’s even, return True; otherwise, return False.
